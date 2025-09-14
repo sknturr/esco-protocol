@@ -1,0 +1,5 @@
+title: "ЭСКО: чтение данных"
+description: "Протокол чтения ЭСКО-Т и ЭСКО МТР-06"
+url: "https://sknturr.github.io"
+baseurl: "/esco-protocol"
+theme: jekyll-theme-primer
